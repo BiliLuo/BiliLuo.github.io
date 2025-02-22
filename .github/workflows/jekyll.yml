@@ -6,7 +6,7 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages构建和部署Jekyll站点到GitHub Pages的示例工作流
 name: Deploy Jekyll site to Pages名称：将Jekyll站点部署到Pages
 
-on:   :
+on:
   # Runs on pushes targeting the default branch#针对默认分支推送运行
   push:   推动:
     branches: ["master"]   分支机构(“主”):
